@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Delegate-Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD28897-5F64-4DB1-932F-D6A2DE0F3541}|Delegate-Practice\\Delegate-Practice.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\delegate-practice\\delegate-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD28897-5F64-4DB1-932F-D6A2DE0F3541}|Delegate-Practice\\Delegate-Practice.csproj|solutionrelative:delegate-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD28897-5F64-4DB1-932F-D6A2DE0F3541}|Delegate-Practice\\Delegate-Practice.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\delegate-practice\\delegate-practice\\delegatepractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD28897-5F64-4DB1-932F-D6A2DE0F3541}|Delegate-Practice\\Delegate-Practice.csproj|solutionrelative:delegate-practice\\delegatepractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DelegatePractice.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Delegate-Practice\\Delegate-Practice\\DelegatePractice.cs",
+              "RelativeDocumentMoniker": "Delegate-Practice\\DelegatePractice.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Delegate-Practice\\Delegate-Practice\\DelegatePractice.cs",
+              "RelativeToolTip": "Delegate-Practice\\DelegatePractice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:09:38.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Delegate-Practice\\Delegate-Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate-Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Delegate-Practice\\Delegate-Practice\\Program.cs",
+              "RelativeToolTip": "Delegate-Practice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:49:42.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
